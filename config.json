@@ -1,0 +1,5 @@
+{
+  "appsecret": "controlprint-highresprinter-greenply-hr-printer-app",
+  "verifyToken": "eyJhbGciOiJIUzI1NiJ9.Y29udHJvbHByaW50LWhpZ2hyZXNwcmludGVyLWdyZWVucGx5LWhyLXByaW50ZXItYXBw.cvd6YZt1OxfZ1L_U_z-rhyvaOicEG0qcErcUoBQwDbE",
+  "baseUrl": "http://127.0.0.1:3625"
+}
