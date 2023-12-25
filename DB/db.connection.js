@@ -1,7 +1,6 @@
 const express = require("express");
 const mongoose = require("mongoose");
-// const serverURI = "mongodb://172.31.15.191:23047/Rhyme-organics";
-const serverURI = "mongodb://127.0.0.1:27017/mnkLocalDB";
+const serverURI = "mongodb://127.0.0.1:27017/crudmvc";
 
 mongoose.connect(serverURI, {
   // keepAlive: 1,
